@@ -22,6 +22,8 @@
 
 | [Women in Engineering ](https://www.womeng.org/) | |
 
+| [National Committee on Women in Engineering (NCWIE) ](https://www.engineersaustralia.org.au/Communities-And-Groups/Special-Interest-Groups/Women-In-Engineering) | |
+
 
 ## Communities on Women in Technology & Management
 | [SheLeadsTech India](https://sheleadstechin.splashthat.com/) | |
